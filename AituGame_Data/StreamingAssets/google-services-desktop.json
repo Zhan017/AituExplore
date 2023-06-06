@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930989021667",
+    "firebase_url": "https://aitu-game1-default-rtdb.firebaseio.com",
+    "project_id": "aitu-game1",
+    "storage_bucket": "aitu-game1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930989021667:android:1abb6eeacb3ae5586428d6",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.AituGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930989021667-s8fao9n41n5s2tmsvqmt4n2t1rdunbfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOOm1ng6rcSJwpP7LhyFqubkCD-O1XVA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930989021667-s8fao9n41n5s2tmsvqmt4n2t1rdunbfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
